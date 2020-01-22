@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+}
+
+h1 {
+  background-color: coral;
+  color: white;
+  font-size: 35px;
+  border: 5px solid red;
+  margin: 0px 20px 40px 20px;
+  padding: 40px;
+}
+
+div.para1 {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+p {
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  width: 600px;
+  height: 600px;
+  border-radius: 50%;
+}
